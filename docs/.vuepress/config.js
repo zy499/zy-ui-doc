@@ -1,6 +1,9 @@
 module.exports = {
-    title: 'zy-ui', // 设置网站标题
+    title: 'Sade Ui', // 设置网站标题
     description: 'ui 库', //描述
+    head: [
+        ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `/favicon.ico` }]
+    ],
     dest: './dist', // 设置输出目录
     port: 8089, //端口
     themeConfig: { //主题配置

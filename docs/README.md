@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /images/home/hero.png
-heroText: 'zy-ui'
-tagline: '从零搭建zy-ui组件库'
+heroImage: /images/home/zy.jpg
+heroText: 'Sade Ui'
+tagline: '从零搭建Sade Ui组件库'
 actionText: 快速上手 →
 actionLink: /components/button/
 features:
