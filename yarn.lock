@@ -8292,10 +8292,10 @@ zepto@^1.2.0:
   resolved "https://registry.npm.taobao.org/zepto/download/zepto-1.2.0.tgz#e127bd9e66fd846be5eab48c1394882f7c0e4f98"
   integrity sha1-4Se9nmb9hGvl6rSME5SIL3wOT5g=
 
-zy499-ui@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.npm.taobao.org/zy499-ui/download/zy499-ui-0.1.0.tgz#2ccddd3b9a0d31810314fb3e729a422e9e7026af"
-  integrity sha1-LM3dO5oNMYEDFPs+cppCLp5wJq8=
+zy499-ui@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.npm.taobao.org/zy499-ui/download/zy499-ui-0.2.1.tgz#5e2a5cc592943246d13d9e222bfbcd30fd70dfd1"
+  integrity sha1-XipcxZKUMkbRPZ4iK/vNMP1w39E=
   dependencies:
     core-js "^3.6.4"
     vue "^2.6.11"

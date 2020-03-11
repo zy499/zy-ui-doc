@@ -6,7 +6,7 @@ import hljs from 'highlight.js'
 import 'highlight.js/styles/googlecode.css' //样式文件
 
 import zyUi from 'zy499-ui' // 要编写对应的文档的包
-import 'zy499-ui/dist/zy-ui.css'
+import 'zy499-ui/dist/zy499-ui.css'
 Vue.directive('highlight',function (el) {
   let blocks = el.querySelectorAll('pre code');
   blocks.forEach((block)=>{
