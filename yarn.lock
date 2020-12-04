@@ -3802,10 +3802,10 @@ hex-color-regex@^1.1.0:
   resolved "https://registry.npm.taobao.org/hex-color-regex/download/hex-color-regex-1.1.0.tgz#4c06fccb4602fe2602b3c93df82d7e7dbf1a8a8e"
   integrity sha1-TAb8y0YC/iYCs8k9+C1+fb8aio4=
 
-highlight.js@^9.18.1:
-  version "9.18.1"
-  resolved "https://registry.npm.taobao.org/highlight.js/download/highlight.js-9.18.1.tgz#ed21aa001fe6252bb10a3d76d47573c6539fe13c"
-  integrity sha1-7SGqAB/mJSuxCj121HVzxlOf4Tw=
+highlight.js@^10.4.1:
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.4.1.tgz#d48fbcf4a9971c4361b3f95f302747afe19dbad0"
+  integrity sha512-yR5lWvNz7c85OhVAEAeFhVCc/GV4C30Fjzc/rCP0aCWzc1UUOPUk55dK/qdwTZHBvMZo+eZ2jpk62ndX/xMFlg==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -8292,10 +8292,10 @@ zepto@^1.2.0:
   resolved "https://registry.npm.taobao.org/zepto/download/zepto-1.2.0.tgz#e127bd9e66fd846be5eab48c1394882f7c0e4f98"
   integrity sha1-4Se9nmb9hGvl6rSME5SIL3wOT5g=
 
-zy499-ui@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npm.taobao.org/zy499-ui/download/zy499-ui-0.2.1.tgz#5e2a5cc592943246d13d9e222bfbcd30fd70dfd1"
-  integrity sha1-XipcxZKUMkbRPZ4iK/vNMP1w39E=
+zy499-ui@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/zy499-ui/-/zy499-ui-0.2.2.tgz#3eb6eec432f573fc2605b8903d1b12892fece475"
+  integrity sha512-s289eF/QOW8QjXLGQZLvKJy43TXMqJ4MAbJoA+FqmCAShyNYQ+xf06vU7hJWwiABP1yJ0CHNOLXyd6hSNhU2tw==
   dependencies:
     core-js "^3.6.4"
     vue "^2.6.11"
