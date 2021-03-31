@@ -8216,9 +8216,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha1-u3J3n1+kZRhrH0OPZ0+jR/2121Q=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npm.taobao.org/y18n/download/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
@@ -8292,10 +8292,10 @@ zepto@^1.2.0:
   resolved "https://registry.npm.taobao.org/zepto/download/zepto-1.2.0.tgz#e127bd9e66fd846be5eab48c1394882f7c0e4f98"
   integrity sha1-4Se9nmb9hGvl6rSME5SIL3wOT5g=
 
-zy499-ui@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npm.taobao.org/zy499-ui/download/zy499-ui-0.2.1.tgz#5e2a5cc592943246d13d9e222bfbcd30fd70dfd1"
-  integrity sha1-XipcxZKUMkbRPZ4iK/vNMP1w39E=
+zy499-ui@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/zy499-ui/-/zy499-ui-0.2.2.tgz#3eb6eec432f573fc2605b8903d1b12892fece475"
+  integrity sha512-s289eF/QOW8QjXLGQZLvKJy43TXMqJ4MAbJoA+FqmCAShyNYQ+xf06vU7hJWwiABP1yJ0CHNOLXyd6hSNhU2tw==
   dependencies:
     core-js "^3.6.4"
     vue "^2.6.11"
