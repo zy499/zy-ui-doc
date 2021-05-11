@@ -3825,9 +3825,9 @@ hogan.js@^3.0.2:
     nopt "1.0.10"
 
 hosted-git-info@^2.1.4:
-  version "2.8.8"
-  resolved "https://registry.npm.taobao.org/hosted-git-info/download/hosted-git-info-2.8.8.tgz?cache=0&sync_timestamp=1583018405733&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fhosted-git-info%2Fdownload%2Fhosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
-  integrity sha1-dTm9S8Hg4KiVgVouAmJCCxKFhIg=
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -8292,10 +8292,10 @@ zepto@^1.2.0:
   resolved "https://registry.npm.taobao.org/zepto/download/zepto-1.2.0.tgz#e127bd9e66fd846be5eab48c1394882f7c0e4f98"
   integrity sha1-4Se9nmb9hGvl6rSME5SIL3wOT5g=
 
-zy499-ui@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npm.taobao.org/zy499-ui/download/zy499-ui-0.2.1.tgz#5e2a5cc592943246d13d9e222bfbcd30fd70dfd1"
-  integrity sha1-XipcxZKUMkbRPZ4iK/vNMP1w39E=
+zy499-ui@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/zy499-ui/-/zy499-ui-0.2.2.tgz#3eb6eec432f573fc2605b8903d1b12892fece475"
+  integrity sha512-s289eF/QOW8QjXLGQZLvKJy43TXMqJ4MAbJoA+FqmCAShyNYQ+xf06vU7hJWwiABP1yJ0CHNOLXyd6hSNhU2tw==
   dependencies:
     core-js "^3.6.4"
     vue "^2.6.11"
