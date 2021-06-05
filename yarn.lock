@@ -1472,8 +1472,8 @@ async-foreach@^0.1.3:
 
 async-limiter@~1.0.0:
   version "1.0.1"
-  resolved "https://registry.npm.taobao.org/async-limiter/download/async-limiter-1.0.1.tgz?cache=0&sync_timestamp=1574271725892&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fasync-limiter%2Fdownload%2Fasync-limiter-1.0.1.tgz#dd379e94f0db8310b08291f9d64c3209766617fd"
-  integrity sha1-3TeelPDbgxCwgpH51kwyCXZmF/0=
+  resolved "https://registry.yarnpkg.com/async-limiter/-/async-limiter-1.0.1.tgz#dd379e94f0db8310b08291f9d64c3209766617fd"
+  integrity sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
 
 async-validator@~1.8.1:
   version "1.8.5"
@@ -8199,9 +8199,9 @@ write-file-atomic@^3.0.0:
     typedarray-to-buffer "^3.1.5"
 
 ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.npm.taobao.org/ws/download/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
-  integrity sha1-RC/fCkftZPWbal2P8TD0dI7VJPs=
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
@@ -8292,10 +8292,10 @@ zepto@^1.2.0:
   resolved "https://registry.npm.taobao.org/zepto/download/zepto-1.2.0.tgz#e127bd9e66fd846be5eab48c1394882f7c0e4f98"
   integrity sha1-4Se9nmb9hGvl6rSME5SIL3wOT5g=
 
-zy499-ui@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npm.taobao.org/zy499-ui/download/zy499-ui-0.2.1.tgz#5e2a5cc592943246d13d9e222bfbcd30fd70dfd1"
-  integrity sha1-XipcxZKUMkbRPZ4iK/vNMP1w39E=
+zy499-ui@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/zy499-ui/-/zy499-ui-0.2.2.tgz#3eb6eec432f573fc2605b8903d1b12892fece475"
+  integrity sha512-s289eF/QOW8QjXLGQZLvKJy43TXMqJ4MAbJoA+FqmCAShyNYQ+xf06vU7hJWwiABP1yJ0CHNOLXyd6hSNhU2tw==
   dependencies:
     core-js "^3.6.4"
     vue "^2.6.11"
