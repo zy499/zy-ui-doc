@@ -5704,9 +5704,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npm.taobao.org/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -8292,10 +8292,10 @@ zepto@^1.2.0:
   resolved "https://registry.npm.taobao.org/zepto/download/zepto-1.2.0.tgz#e127bd9e66fd846be5eab48c1394882f7c0e4f98"
   integrity sha1-4Se9nmb9hGvl6rSME5SIL3wOT5g=
 
-zy499-ui@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npm.taobao.org/zy499-ui/download/zy499-ui-0.2.1.tgz#5e2a5cc592943246d13d9e222bfbcd30fd70dfd1"
-  integrity sha1-XipcxZKUMkbRPZ4iK/vNMP1w39E=
+zy499-ui@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/zy499-ui/-/zy499-ui-0.2.2.tgz#3eb6eec432f573fc2605b8903d1b12892fece475"
+  integrity sha512-s289eF/QOW8QjXLGQZLvKJy43TXMqJ4MAbJoA+FqmCAShyNYQ+xf06vU7hJWwiABP1yJ0CHNOLXyd6hSNhU2tw==
   dependencies:
     core-js "^3.6.4"
     vue "^2.6.11"
